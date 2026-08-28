@@ -119,16 +119,12 @@ Real-time sign language detection system using Python and OpenCV to recognize ha
 <a href="https://github.com/Anjali-S-Prabhu" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-<!-- Add your LinkedIn once ready:
-<a href="linkedin.com/in/anjali-s-prabhuL" target="_blank">
+<a href="https://linkedin.com/in/anjali-s-prabhu" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
--->
-<!-- Add your email once ready:
-<a href="mailto:anjali.s.prabhu18@gmail.com" target="_blank">
+<a href="mailto:anjali.s.prabhu18@gmail.com?subject=Opportunity%20Discussion&body=Hi%20Anjali,%20I%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
--->
 </p>
 
 <br>
