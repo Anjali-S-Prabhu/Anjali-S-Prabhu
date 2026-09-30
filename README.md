@@ -19,28 +19,17 @@
 
 ## 👩‍💻 About
 
-Final-year **B.E. Artificial Intelligence & Machine Learning** student who builds AI systems end to end: data and models, APIs, containers and cloud storage. I enjoy turning ML ideas into working, deployable products.
+```python
+class Anjali:
+    role      = "Final-year B.E. student, Artificial Intelligence & Machine Learning"
+    building  = ["RAG-powered LLM apps", "Real-time computer vision", "ML backends"]
+    learning  = ["DSA", "Deep Learning", "NLP", "Cloud & MLOps"]
+    stack     = ["Python", "FastAPI", "LangChain", "OpenCV", "Docker", "AWS"]
+    looking_for = "AI/ML internship"
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔭 What I'm building**
-- LLM applications powered by RAG
-- Real-time computer vision systems
-- Production-style backends for ML
-
-</td>
-<td width="50%" valign="top">
-
-**📈 What I'm strengthening**
-- Data Structures & Algorithms
-- Deep Learning and NLP
-- Cloud and MLOps practices
-
-</td>
-</tr>
-</table>
+    def mission(self):
+        return "Turn ML ideas into working, deployable products."
+```
 
 <br>
 
@@ -49,21 +38,47 @@ Final-year **B.E. Artificial Intelligence & Machine Learning** student who build
 ### 🏥 Hospital Information Assistant
 > A production-oriented hospital information system with an AI chatbot that answers queries using retrieval-augmented generation.
 
-```mermaid
-flowchart LR
-    A([User Query]) --> B[FastAPI Backend]
-    B --> C{JWT / OAuth2}
-    C --> D[LangChain Pipeline]
-    D --> E[(Qdrant Vector Search)]
-    E --> F[Llama-3]
-    F --> G([Grounded Answer])
-    B --- H[(PostgreSQL)]
-    B --- I[(AWS S3)]
-```
+<div align="center">
 
-- **Backend:** FastAPI with PostgreSQL and secure JWT/OAuth2 authentication
-- **AI layer:** LangChain and Llama-3 with RAG over Qdrant vector search
-- **Infrastructure:** Dockerized with Docker Compose; AWS S3 for cloud file storage
+![1](https://img.shields.io/badge/1-User%20Query-0E75B6?style=for-the-badge&labelColor=0A2540)
+➜
+![2](https://img.shields.io/badge/2-FastAPI%20%2B%20JWT-009688?style=for-the-badge&labelColor=0A2540)
+➜
+![3](https://img.shields.io/badge/3-LangChain-1C3C3C?style=for-the-badge&labelColor=0A2540)
+➜
+![4](https://img.shields.io/badge/4-Qdrant%20Search-DC244C?style=for-the-badge&labelColor=0A2540)
+➜
+![5](https://img.shields.io/badge/5-Llama--3-7B42BC?style=for-the-badge&labelColor=0A2540)
+➜
+![6](https://img.shields.io/badge/6-Grounded%20Answer-00C6FF?style=for-the-badge&labelColor=0A2540)
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**⚙️ Backend**
+
+FastAPI with PostgreSQL and secure JWT/OAuth2 authentication
+
+</td>
+<td width="33%" valign="top">
+
+**🧠 AI Layer**
+
+LangChain and Llama-3 with RAG over Qdrant vector search
+
+</td>
+<td width="33%" valign="top">
+
+**☁️ Infrastructure**
+
+Docker and Docker Compose, with AWS S3 for cloud file storage
+
+</td>
+</tr>
+</table>
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
@@ -79,16 +94,38 @@ flowchart LR
 ### 🤟 SignSpeak AI: Real-Time Sign Language Detection
 > A webcam-based system that recognizes hand gestures in real time and converts them into readable text. Built by a team of four.
 
-```mermaid
-flowchart LR
-    A([Webcam Feed]) --> B[Image Preprocessing]
-    B --> C[Hand Landmark Detection]
-    C --> D[Gesture Classification]
-    D --> E([Readable Text Output])
-```
+<div align="center">
 
-- **Vision pipeline:** preprocessing, hand landmark detection and gesture classification
-- **Output:** detected gestures converted to text on screen, live
+![1](https://img.shields.io/badge/1-Webcam%20Feed-0E75B6?style=for-the-badge&labelColor=0A2540)
+➜
+![2](https://img.shields.io/badge/2-Preprocessing-5C3EE8?style=for-the-badge&labelColor=0A2540)
+➜
+![3](https://img.shields.io/badge/3-Hand%20Landmarks-F7931E?style=for-the-badge&labelColor=0A2540)
+➜
+![4](https://img.shields.io/badge/4-Gesture%20Classifier-DC244C?style=for-the-badge&labelColor=0A2540)
+➜
+![5](https://img.shields.io/badge/5-Live%20Text-00C6FF?style=for-the-badge&labelColor=0A2540)
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**👁️ Vision Pipeline**
+
+Image preprocessing, hand landmark detection and gesture classification
+
+</td>
+<td width="50%" valign="top">
+
+**💬 Output**
+
+Detected gestures converted to readable text on screen, live
+
+</td>
+</tr>
+</table>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
