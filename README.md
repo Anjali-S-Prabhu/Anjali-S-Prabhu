@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0A2540,50:0E75B6,100:00C6FF&height=230&section=header&text=Anjali%20S%20Prabhu&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI&descSize=18&descAlignY=62" alt="Anjali S Prabhu" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0E75B6,100:00C6FF&height=230&section=header&text=Anjali%20S%20Prabhu&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI&descSize=18&descAlignY=58&descAlign=50" alt="Anjali S Prabhu - AI/ML Engineer" />
 
 <br>
 
