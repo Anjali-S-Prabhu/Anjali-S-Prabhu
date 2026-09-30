@@ -1,213 +1,83 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,50:0E75B6,100:00C6FF&height=230&section=header&text=Anjali%20S%20Prabhu&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI&descSize=18&descAlignY=58&descAlign=50" alt="Anjali S Prabhu - AI/ML Engineer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:475569&height=200&section=header&text=Anjali%20S%20Prabhu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Generative%20AI&descSize=17&descAlignY=60" alt="Anjali S Prabhu - AI/ML Engineer" />
 
 <br>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20AI%2FML%20Internships-00C6FF?style=for-the-badge&labelColor=0A2540)
-![Focus](https://img.shields.io/badge/Focus-RAG%20%7C%20Computer%20Vision%20%7C%20MLOps-0E75B6?style=for-the-badge&labelColor=0A2540)
+![Status](https://img.shields.io/badge/Open%20to-AI%2FML%20Internships-334155?style=flat-square)
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-s-prabhu)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjali.s.prabhu18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anjali-S-Prabhu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-s-prabhu)
+[![Email](https://img.shields.io/badge/Email-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:anjali.s.prabhu18@gmail.com)
 
 </div>
 
 <br>
 
-## 👩‍💻 About
+## About
+
+Final-year B.E. student in Artificial Intelligence & Machine Learning. I build AI systems end to end: data and models, APIs, containers and cloud storage, with the goal of turning ML ideas into working, deployable products.
 
 ```python
 class Anjali:
-    role      = "Final-year B.E. student, Artificial Intelligence & Machine Learning"
-    building  = ["RAG-powered LLM apps", "Real-time computer vision", "ML backends"]
-    learning  = ["DSA", "Deep Learning", "NLP", "Cloud & MLOps"]
-    stack     = ["Python", "FastAPI", "LangChain", "OpenCV", "Docker", "AWS"]
+    role        = "Final-year B.E. student, Artificial Intelligence & Machine Learning"
+    building    = ["RAG-powered LLM apps", "Real-time computer vision", "ML backends"]
+    learning    = ["DSA", "Deep Learning", "NLP", "Cloud & MLOps"]
     looking_for = "AI/ML internship"
-
-    def mission(self):
-        return "Turn ML ideas into working, deployable products."
 ```
 
 <br>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏥 Hospital Information Assistant
-> A production-oriented hospital information system with an AI chatbot that answers queries using retrieval-augmented generation.
+### Hospital Information Assistant
 
-<div align="center">
+A production-oriented hospital information system with an AI chatbot that answers queries using retrieval-augmented generation.
 
-![1](https://img.shields.io/badge/1-User%20Query-0E75B6?style=for-the-badge&labelColor=0A2540)
-➜
-![2](https://img.shields.io/badge/2-FastAPI%20%2B%20JWT-009688?style=for-the-badge&labelColor=0A2540)
-➜
-![3](https://img.shields.io/badge/3-LangChain-1C3C3C?style=for-the-badge&labelColor=0A2540)
-➜
-![4](https://img.shields.io/badge/4-Qdrant%20Search-DC244C?style=for-the-badge&labelColor=0A2540)
-➜
-![5](https://img.shields.io/badge/5-Llama--3-7B42BC?style=for-the-badge&labelColor=0A2540)
-➜
-![6](https://img.shields.io/badge/6-Grounded%20Answer-00C6FF?style=for-the-badge&labelColor=0A2540)
+**Pipeline:** `User Query` → `FastAPI + JWT` → `LangChain` → `Qdrant Search` → `Llama-3` → `Grounded Answer`
 
-</div>
+- **Backend:** FastAPI with PostgreSQL and secure JWT/OAuth2 authentication
+- **AI layer:** LangChain and Llama-3 with RAG over Qdrant vector search
+- **Infrastructure:** Docker and Docker Compose, with AWS S3 for cloud file storage
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**⚙️ Backend**
-
-FastAPI with PostgreSQL and secure JWT/OAuth2 authentication
-
-</td>
-<td width="33%" valign="top">
-
-**🧠 AI Layer**
-
-LangChain and Llama-3 with RAG over Qdrant vector search
-
-</td>
-<td width="33%" valign="top">
-
-**☁️ Infrastructure**
-
-Docker and Docker Compose, with AWS S3 for cloud file storage
-
-</td>
-</tr>
-</table>
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS%20S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Anjali-S-Prabhu/REPO-NAME)
+![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-334155?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-334155?style=flat-square&logo=amazons3&logoColor=white)
 
 <br>
 
-### 🤟 SignSpeak AI: Real-Time Sign Language Detection
-> A webcam-based system that recognizes hand gestures in real time and converts them into readable text. Built by a team of four.
+### SignSpeak AI: Real-Time Sign Language Detection
 
-<div align="center">
+A webcam-based system that recognizes hand gestures in real time and converts them into readable text. Built by a team of four.
 
-![1](https://img.shields.io/badge/1-Webcam%20Feed-0E75B6?style=for-the-badge&labelColor=0A2540)
-➜
-![2](https://img.shields.io/badge/2-Preprocessing-5C3EE8?style=for-the-badge&labelColor=0A2540)
-➜
-![3](https://img.shields.io/badge/3-Hand%20Landmarks-F7931E?style=for-the-badge&labelColor=0A2540)
-➜
-![4](https://img.shields.io/badge/4-Gesture%20Classifier-DC244C?style=for-the-badge&labelColor=0A2540)
-➜
-![5](https://img.shields.io/badge/5-Live%20Text-00C6FF?style=for-the-badge&labelColor=0A2540)
+**Pipeline:** `Webcam Feed` → `Preprocessing` → `Hand Landmarks` → `Gesture Classifier` → `Live Text`
 
-</div>
+- **Vision pipeline:** image preprocessing, hand landmark detection and gesture classification
+- **Output:** detected gestures converted to readable text on screen, live
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**👁️ Vision Pipeline**
-
-Image preprocessing, hand landmark detection and gesture classification
-
-</td>
-<td width="50%" valign="top">
-
-**💬 Output**
-
-Detected gestures converted to readable text on screen, live
-
-</td>
-</tr>
-</table>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0E75B6?style=flat-square)
-
-[![View Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/Anjali-S-Prabhu/REPO-NAME)
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-334155?style=flat-square)
 
 <br>
 
-## 🧰 Tech Stack
+## Tech Stack
 
-<table>
-<tr>
-<td width="180"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Machine Learning</b></td>
-<td>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-</td>
-</tr>
-<tr>
-<td><b>Generative AI</b></td>
-<td>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LLMs-0E75B6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-00A6D6?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td><b>Backend</b></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge" />
-</td>
-</tr>
-<tr>
-<td><b>Data & Storage</b></td>
-<td>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>Cloud & DevOps</b></td>
-<td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-334155?style=flat-square&logo=postgresql&logoColor=white) |
+| **Machine Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-334155?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-334155?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-334155?style=flat-square&logo=opencv&logoColor=white) |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-334155?style=flat-square&logo=langchain&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-334155?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-334155?style=flat-square) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-334155?style=flat-square&logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-334155?style=flat-square) |
+| **Data & Storage** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-334155?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-334155?style=flat-square&logo=firebase&logoColor=white) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-334155?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-334155?style=flat-square&logo=linux&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-334155?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 <br>
 
-## 📊 GitHub
-
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Anjali-S-Prabhu?style=for-the-badge&logo=github&labelColor=0A2540&color=0E75B6)
-![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAnjali-S-Prabhu&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&labelColor=0A2540&color=0E75B6)
-
-</div>
-
-<br>
-
-## 🎯 Roadmap
+## Roadmap
 
 - [x] Build a RAG-based LLM application with a secure backend
 - [x] Build a real-time computer vision system
@@ -218,15 +88,11 @@ Detected gestures converted to readable text on screen, live
 
 <br>
 
-## 📫 Let's Connect
+## Contact
 
-I'm open to **AI/ML internships** and collaborations on practical AI projects.
+Open to AI/ML internships and collaborations on practical AI projects.
 
-<div align="center">
+- Email: [anjali.s.prabhu18@gmail.com](mailto:anjali.s.prabhu18@gmail.com)
+- LinkedIn: [linkedin.com/in/anjali-s-prabhu](https://linkedin.com/in/anjali-s-prabhu)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anjali--s--prabhu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-s-prabhu)
-[![Email](https://img.shields.io/badge/anjali.s.prabhu18@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjali.s.prabhu18@gmail.com)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0E75B6,100:0A2540&height=120&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:475569,100:1e293b&height=90&section=footer" alt="" />
