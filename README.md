@@ -1,134 +1,87 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=200&section=header&text=Anjali%20S%20Prabhu&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:00C6FF&height=180&section=header&text=Anjali%20S%20Prabhu&fontSize=42&fontColor=ffffff&fontAlignY=38" alt="Anjali S Prabhu" />
 
-### B.E. Artificial Intelligence & Machine Learning Student | Aspiring AI/ML Engineer
+**B.E. Artificial Intelligence & Machine Learning Student · Aspiring AI/ML Engineer**
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=AI+%2F+ML+%7C+NLP+%7C+Computer+Vision;Building+Generative+AI+Applications;Currently+Strengthening+DSA+%26+Software+Dev;Open+to+AI%2FML+Internship+Opportunities" alt="Typing SVG" />
+NLP · Computer Vision · Generative AI · Backend for ML
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anjali-s-prabhu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anjali.s.prabhu18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anjali-S-Prabhu)
 
 </div>
 
-<br>
+---
 
-## About Me
+## 👋 About Me
 
-- B.E. Artificial Intelligence & Machine Learning student, currently in 7th semester
-- Interested in Artificial Intelligence, Machine Learning, NLP, Computer Vision and Generative AI
-- Building practical AI/ML and full-stack projects
-- Currently strengthening DSA, problem-solving and software development skills
-- Looking for AI/ML internship opportunities
+I'm a final-year B.E. student in Artificial Intelligence & Machine Learning, focused on building practical AI applications end to end: from model and data pipelines to APIs and deployment.
 
-<br>
+- 🔭 Working on: LLM-based applications with RAG, and real-time computer vision systems
+- 📚 Currently strengthening: Data Structures & Algorithms, problem solving, and software engineering
+- 🎯 Looking for: **AI/ML internship opportunities**
 
-## Featured Projects
+---
 
-**[Hospital Information Assistant](https://github.com/Anjali-S-Prabhu)**
-Production-oriented hospital information assistant with a FastAPI backend, PostgreSQL database, and JWT/OAuth2 authentication. Includes an AI-powered chatbot built with LangChain, Llama-3, and RAG using Qdrant vector search. Containerized with Docker and Docker Compose, with AWS S3 for cloud file storage.
-`FastAPI` `PostgreSQL` `LangChain` `Qdrant` `AWS S3` `Docker`
+## 🚀 Featured Projects
 
-**[Hand Gestures — Real-Time Sign Language Detection](https://github.com/Anjali-S-Prabhu)**
-Real-time sign language detection system using Python and OpenCV to recognize hand gestures via webcam. Implements image preprocessing, hand landmark detection, and gesture classification, converting detected gestures into readable text.
+### 🏥 [Hospital Information Assistant](https://github.com/Anjali-S-Prabhu/REPO-NAME)
+A hospital information system with an AI chatbot that answers queries using retrieval-augmented generation.
+
+- FastAPI backend with PostgreSQL and JWT/OAuth2 authentication
+- Chatbot built with LangChain and Llama-3, using RAG over Qdrant vector search
+- Containerized with Docker and Docker Compose; AWS S3 for cloud file storage
+
+`FastAPI` `PostgreSQL` `LangChain` `Llama-3` `Qdrant` `Docker` `AWS S3`
+
+### 🤟 [SignSpeak AI: Real-Time Sign Language Detection](https://github.com/Anjali-S-Prabhu/REPO-NAME)
+A webcam-based system that recognizes hand gestures in real time and converts them into readable text.
+
+- Image preprocessing and hand landmark detection
+- Gesture classification pipeline with live text output
+- Team project (4 members)
+
 `Python` `OpenCV` `Computer Vision`
 
-<br>
+---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Programming Languages**
-<p>
-<img src="https://skillicons.dev/icons?i=python" height="40" />&nbsp;
-<img src="https://img.shields.io/badge/SQL-0E75B6?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
-</p>
+| Area | Technologies |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **ML / DL** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-00A6D6?style=flat-square) ![LLMs](https://img.shields.io/badge/LLMs-0E75B6?style=flat-square) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-0E75B6?style=flat-square) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-**AI / Machine Learning**
-<p>
-<img src="https://img.shields.io/badge/Machine%20Learning-0E75B6?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/NLP-0E75B6?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0E75B6?style=for-the-badge" height="28" />
-</p>
+---
 
-**Generative AI**
-<p>
-<img src="https://img.shields.io/badge/LLMs-00C6FF?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/RAG-00C6FF?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="28" />
-</p>
-
-**Backend & APIs**
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/REST%20APIs-0E75B6?style=for-the-badge" height="28" />
-</p>
-
-**Databases & Storage**
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/AWS%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="28" />
-</p>
-
-**Cloud & DevOps**
-<p>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" height="28" />
-<img src="https://img.shields.io/badge/CI%2FCD-0E75B6?style=for-the-badge" height="28" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="28" />
-</p>
-
-**Tools**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" height="40" />&nbsp;
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" height="28" />
-</p>
-
-<br>
-
-## GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anjali-S-Prabhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Anjali-S-Prabhu&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anjali-S-Prabhu&theme=tokyo-night&hide_border=true" width="98%" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anjali-S-Prabhu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-S-Prabhu&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 </div>
 
-<br>
+---
 
-## Goals
+## 🎯 Goals
 
-- Secure an AI/ML internship
-- Build practical AI and Generative AI applications
-- Strengthen Machine Learning, Deep Learning, NLP and DSA
-- Improve cloud and DevOps skills
-- Grow into a skilled AI/ML Engineer
+- Secure an AI/ML internship and contribute to real-world products
+- Build and deploy practical ML and Generative AI applications
+- Deepen Machine Learning, Deep Learning, NLP and DSA
+- Grow my cloud and MLOps skills
 
-<br>
+---
 
-## Connect With Me
+## 📫 Let's Connect
 
-<p align="left">
-<a href="https://github.com/Anjali-S-Prabhu" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
-<a href="https://linkedin.com/in/anjali-s-prabhu" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="mailto:anjali.s.prabhu18@gmail.com?subject=Opportunity%20Discussion&body=Hi%20Anjali,%20I%20visited%20your%20GitHub%20profile%20and%20would%20like%20to%20connect." target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+I'm open to AI/ML internships and collaborations. Reach me at **anjali.s.prabhu18@gmail.com** or on [LinkedIn](https://linkedin.com/in/anjali-s-prabhu).
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=140&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0E75B6&height=100&section=footer" alt="" />
